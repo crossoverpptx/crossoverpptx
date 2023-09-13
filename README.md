@@ -2,7 +2,7 @@
 
 🌱 I’m currently a graduate student majoring in computer technology.
 
-⭐️ My recent goal is to enter a great company and become a back-end engineer.
+⭐️ My recent goal is to enter a great company and become a software engineer.
 
 ❤️ My dream is freedom of wealth.
 
