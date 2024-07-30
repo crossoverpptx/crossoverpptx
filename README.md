@@ -1,10 +1,10 @@
 # Hi, I'm crossoverpptx
 
-🌱 I’m currently a graduate student majoring in computer technology.
+🌱 I am an engineer, specializing in the domains of computers and artificial intelligence.
 
-⭐️ My recent goal is to enter a great company and become a software engineer.
+⭐️ My recent goal is to attain wealth freedom.
 
-❤️ My dream is freedom of wealth.
+❤️ My dream is to be a salted fish.
 
 ## ⚡ Technologies
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -17,7 +17,6 @@
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=crossoverpptx&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="crossoverpptx's github stats"/>
-
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crossoverpptx&bg_color=071A2C&text_color=FFFFFF" alt="crossoverpptx's top langs"/>
 </p>
 
